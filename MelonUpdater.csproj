@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net472</TargetFramework>
+        <Nullable>enable</Nullable>
+        <LangVersion>default</LangVersion>
+        <DebugType>embedded</DebugType>
+    </PropertyGroup>
+    
+    <Import Project="MelonUpdater.targets" />
+</Project>
